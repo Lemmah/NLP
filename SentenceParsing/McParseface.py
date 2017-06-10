@@ -1,5 +1,7 @@
 # Parsey McParseface
 # Google's extension of syntaxnet
+# https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
+# https://algorithmia.com/algorithms/deeplearning/Parsey
 
 import Algorithmia
 
